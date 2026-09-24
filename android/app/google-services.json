@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385093943500",
+    "project_id": "sport-33b4a",
+    "storage_bucket": "sport-33b4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385093943500:android:1315a597ecea6084b04269",
+        "android_client_info": {
+          "package_name": "com.example.sport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_piDlgptbRS8NCvZOD9V5iwTs5T0gMTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

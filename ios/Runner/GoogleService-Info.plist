@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>385093943500-f3rb5sich4mk00v7b0vsnale82nb6b3i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.385093943500-f3rb5sich4mk00v7b0vsnale82nb6b3i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBw3hMZqD7zIalqjeX5b8LKlz4YP73ONJM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>385093943500</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sport</string>
+	<key>PROJECT_ID</key>
+	<string>sport-33b4a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sport-33b4a.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:385093943500:ios:4226c78b3cf39ca2b04269</string>
+</dict>
+</plist>
