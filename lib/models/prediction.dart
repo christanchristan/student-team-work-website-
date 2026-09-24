@@ -5,6 +5,8 @@ class Prediction {
   final String pickedSide; // 'A' or 'B'
   final DateTime createdAt;
   final bool scored;
+
+  
   final int pointsAwarded;
 
   const Prediction({
