@@ -5,6 +5,7 @@ class MatchModel {
   final String matchId;
   final double rawPoolA;
   final double rawPoolB;
+  
   final double matchedPoolPerSide;
   final double unmatchedTotal;
   final String unmatchedSide;
